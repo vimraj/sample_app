@@ -1,5 +1,9 @@
 == Welcome to Rails
 
+Chapter 3. Sample application.
+Static pages.
+
+
 Rails is a web-application framework that includes everything needed to create
 database-backed web applications according to the Model-View-Control pattern.
 
